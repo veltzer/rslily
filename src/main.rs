@@ -1,3 +1,5 @@
+//! rslily: Rust lilypond version.
+
 fn main() {
     println!("Hello, world!");
 }
